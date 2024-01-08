@@ -29,4 +29,4 @@ console.log(car1.showInfo());
 const car2 = new Viper(90, "Dodge", 30);
 console.log(car2.showInfo());
 
-console.log(Viper.milage)
+console.log(car2.milage);
